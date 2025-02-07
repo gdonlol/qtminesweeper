@@ -1,0 +1,5 @@
+build/
+submission/
+
+*.pro.user
+*.pro.user.*
